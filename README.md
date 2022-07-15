@@ -1,4 +1,14 @@
-# Notion website template
+# zkJΞT Web3 Home
+
+Objective: Organize the flood of information that is web3 software engineering, put it in one place, sync it across everything.
+
+What made this possible:
+* Notion
+* Github Actions
+* Github Pages
+* Loconotion
+
+Fork: [notion-website-template](https://github.com/timovv/notion-website-template)
 
 Make a website using Notion, GitHub Pages and Loconotion in just 5 steps.
 
